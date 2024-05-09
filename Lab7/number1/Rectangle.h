@@ -3,6 +3,7 @@
 #define RECTANGLE_H
 
 class Rectangle {
+//private member elements
 private:
     float length;
     float width;
