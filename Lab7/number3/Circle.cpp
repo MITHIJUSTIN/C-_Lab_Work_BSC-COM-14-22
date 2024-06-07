@@ -11,11 +11,11 @@ Circle::Circle(double r) {
 }
 
 Circle::~Circle() {
-    // Destructor implementation
+
 }
 
 double Circle::getRadius() const {
     return radius;
 }
 
-// Other member function implementations
+
