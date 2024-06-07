@@ -11,11 +11,9 @@ Square::Square(double side) {
 }
 
 Square::~Square() {
-    // Destructor implementation
+
 }
 
 double Square::getSideLength() const {
     return sideLength;
 }
-
-// Other member function implementations
