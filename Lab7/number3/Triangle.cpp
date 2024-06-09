@@ -13,7 +13,7 @@ Triangle::Triangle(double b, double h) {
 }
 
 Triangle::~Triangle() {
-    // Destructor implementation
+
 }
 
 double Triangle::getBase() const {
@@ -24,4 +24,3 @@ double Triangle::getHeight() const {
     return height;
 }
 
-// Other member function implementations

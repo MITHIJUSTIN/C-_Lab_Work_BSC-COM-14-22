@@ -11,7 +11,7 @@ namespace shapes {
         Circle(double r);
         ~Circle();
         double getRadius() const;
-        // Other member functions
+       
     };
 }
 

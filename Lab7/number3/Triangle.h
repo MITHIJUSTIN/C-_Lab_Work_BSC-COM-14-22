@@ -13,7 +13,7 @@ namespace shapes {
         ~Triangle();
         double getBase() const;
         double getHeight() const;
-        // Other member functions
+   
     };
 }
 

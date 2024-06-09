@@ -14,4 +14,4 @@ namespace shapes {
     };
 }
 
-#endif // AREA_H
+#endif
